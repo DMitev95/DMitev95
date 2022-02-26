@@ -32,5 +32,5 @@ I’m currently learning at SoftUni Bulgaria => [Software University (SoftUni)](
 
 - ⚡ Fun fact: I am loving sport cars ❤️
 
-   https://user-images.githubusercontent.com/90791969/155832722-587da010-d9d3-43f4-ae18-ab6e55eb67b3.png
+   ![]()
 
