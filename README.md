@@ -26,7 +26,7 @@ I’m currently learning C# at SoftUni Bulgaria => [Software University (SoftUni
 
      -Attendance: 11 January 2022 / 20 February 2022
      -Certification: Yes
-     -Grade: 6.00 / 6.00
+     -Grade: 5.96 / 6.00
    
   :x: C# OOP => In progres. :)
 
