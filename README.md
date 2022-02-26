@@ -32,5 +32,5 @@ I’m currently learning at SoftUni Bulgaria => [Software University (SoftUni)](
 
 - ⚡ Fun fact: I am loving sport cars ❤️
 
-   ![](Pictures/koding.png)
+   ![](image/koding.png)
 
