@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **nfsmitko/nfsmitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -32,5 +31,4 @@ I’m currently learning at SoftUni Bulgaria => [Software University (SoftUni)](
 
 - ⚡ Fun fact: I am loving sport cars ❤️
 
-   ![](image/koding.png)
 
