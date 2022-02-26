@@ -7,7 +7,9 @@ I’m currently learning at SoftUni Bulgaria => [Software University (SoftUni)](
 
 ***🎓 Courses Repository***
       - Average Software Engineering Grade: 6.00 / 6.00
+      
 ***Main Courses***
+
    C# Basics
 
     -Attendance: 03 July 2021 / 14 August 2021
