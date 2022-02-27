@@ -1,5 +1,5 @@
 ### :v: Hello :v:
-I am Dimitar from Bulgaria.
+I am Dimitar from Bulgaria. I live in Varna.
 <!--
 **nfsmitko/nfsmitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,4 +20,5 @@ I am Dimitar from Bulgaria.
 
 ⚡ Fun fact: I am loving sport cars ❤️
 
+![](http://url/to/img.png)
 
