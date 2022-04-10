@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimitar Mitev</h1>
+<h1 align="center">Hi 👋, I'm Dimitar</h1>
 
 
 - 🌱 I’m currently learning **C#, JS**
