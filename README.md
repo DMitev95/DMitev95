@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitar</h1>
 
 
-- 🌱 I’m currently learning **C#, JS**
+- 🌱 I’m currently learning **JS and React in Udemy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
