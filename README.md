@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dimitar</h1>
 
 
-- 🌱 I’m currently learning **JS and React in Udemy**
+- 🌱 I’m currently learning JS and React in Udemy
 
 
 
